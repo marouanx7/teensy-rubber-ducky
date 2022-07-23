@@ -1,1 +1,1 @@
-# teensy-2.0-rubber-ducky
+# teensy-rubber-ducky
